@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Auction website<br>🌱 I’m currently learning Front-end development<br>💬 Ask me about CSS, JS, HTML, Jest testing, Cypress testing<br>⚡ Fun fact: Tomatoes are fruits!
+🔭 I’m currently working Java Script Frameworks assignment!<br>🌱 I’m currently learning Front-end development<br>💬 Ask me about CSS, JS, HTML, Jest testing, Cypress testing<br>⚡ Fun fact: Tomatoes are fruits!
 
 
 # 💻 Tech Stack:
