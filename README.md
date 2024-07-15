@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Script Frameworks project!<br>🌱 I’m currently learning Front-end development<br>💬 Ask me about CSS, JS, HTML, Jest testing, Cypress testing<br>⚡ Fun fact: Tomatoes are fruits!
+🔭 I’m currently working on Java Script Frameworks project!<br>🌱 I’m learning Front-end development, I am in the last semister<br>💬 Ask me about CSS, JS, HTML, Jest testing, Cypress testing<br>⚡ Fun fact: Tomatoes are fruits!
 
 
 # 💻 Tech Stack:
